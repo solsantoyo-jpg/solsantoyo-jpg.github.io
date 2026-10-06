@@ -9,5 +9,3 @@ cv_format: rendercv
 description: Here is some information about me.
 sidebar: left
 ---
-
-<img src="/assets/img/chiguiro.jpeg" alt="Chigüiro" width="200">
