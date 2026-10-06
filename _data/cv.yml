@@ -8,7 +8,7 @@ cv:
 
 
   address:
-    street: Carrera 1 # 18A - 12 
+    street: "Carrera 1 # 18A - 12" 
     city: Bogotá
     region: Colombia
     postalCode: 111711
@@ -22,10 +22,9 @@ cv:
         area: Mathematics
         studyType: Master's
         start_date: 2025
-        end_date: 
         courses: "Valued Fields, Ergodic Theory, Hilbert's Tenth Problem, Applications of Stability to Algebra, Functional Analysis"
         highlights:
-          - Master's thesis consists of two projects: "Axiomatizing t-henselianity and augmenting fields", supervised by Sylvy Anscombe and Pablo Cubides, and "Monotilable amenable measure-preserving free actions on probability algebras", supervised by Alexander Berenstein.
+          - "Master's thesis consists of two projects: \"Axiomatizing t-henselianity and augmenting fields\", supervised by Sylvy Anscombe and Pablo Cubides, and \"Monotilable amenable measure-preserving free actions on probability algebras\", supervised by Alexander Berenstein."
 
 
       - institution: Universidad de los Andes
@@ -37,8 +36,8 @@ cv:
         score: "4.64/5.00"
         courses: "Model Theory, Commutative Algebra, Descriptive Set Theory"
         highlights: 
-          - Graduated Cum Laude.
-          - Undergraduate thesis "Acciones de grupos amenables en álgebras de probabilidad" supervised by Alexander Berenstein.
+          - "Graduated Cum Laude."
+          - "Undergraduate thesis \"Acciones de grupos amenables en álgebras de probabilidad\" supervised by Alexander Berenstein."
 
     Experience:
       - company: Universidad de los Andes
