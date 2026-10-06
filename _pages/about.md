@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: CCM1.jpeg
-  image_circular: true #false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p> Universidad de los Andes </p>
     <p> Carrera 1 # 18A - 12, Edificio H </p>
@@ -31,6 +31,6 @@ I am Master's student in mathematics. I currently work at [Universidad de los An
 
 My research focus is on [model theory](https://en.wikipedia.org/wiki/Model_theory), with a focus on its applications to [valued fields](https://en.wikipedia.org/wiki/Valuation_(algebra)) and [ergodic theory](https://en.wikipedia.org/wiki/Ergodic_theory).
 
-I currently work under the supervision of Professors [Sylvy Anscombe](https://www.sylvyanscombe.com/me.html), [Pablo Cubides]{https://math.uniandes.edu.co/~p.cubideskovacsics/} and [Alexander Berenstein](https://matematicas.uniandes.edu.co/es/profesores/alexander-jonathan-berenstein-opscholtens).
+I currently work under the supervision of Professors [Sylvy Anscombe](https://www.sylvyanscombe.com/me.html), [Pablo Cubides](https://math.uniandes.edu.co/~p.cubideskovacsics/) and [Alexander Berenstein](https://matematicas.uniandes.edu.co/es/profesores/alexander-jonathan-berenstein-opscholtens).
 
 You can contact me at s.faciolince@uniandes.edu.co
