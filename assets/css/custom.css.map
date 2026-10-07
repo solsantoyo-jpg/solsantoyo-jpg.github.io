@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["custom.scss"],"names":[],"mappings":"AAAA,eACE,YAGF,oCACE","sourcesContent":["#search-toggle {\n font-size: 0;\n}\n\n#search-toggle .fa-magnifying-glass {\n font-size: 1rem;\n}\n"],"file":"custom.css"}
