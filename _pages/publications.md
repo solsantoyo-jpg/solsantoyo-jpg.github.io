@@ -7,14 +7,10 @@ nav: true
 nav_order: 1
 ---
 
-<!-- _pages/publications.md -->
+## Theses
 
-<!-- Bibsearch Feature -->
+{% bibliography --query @*[keywords ^= theses] %}
 
-{% include bib_search.liquid %}
+## Slides
 
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+{% bibliography --query @*[keywords ^= slides] %}
