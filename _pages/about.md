@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Universidad de los Andes </p>
-    <p> Carrera 1 # 18A - 12, Edificio H </p>
+    
     <p> Bogotá, Colombia 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
