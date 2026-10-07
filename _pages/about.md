@@ -31,6 +31,6 @@ I am a Master's student in mathematics. I currently work at [Universidad de los 
 
 I do research on [model theory](https://en.wikipedia.org/wiki/Model_theory), with a focus on its applications to [valued fields](https://en.wikipedia.org/wiki/Valuation_(algebra)) and [ergodic theory](https://en.wikipedia.org/wiki/Ergodic_theory).
 
-I currently work under the supervision of Professors [Sylvy Anscombe](https://www.sylvyanscombe.com/me.html), [Pablo Cubides](https://math.uniandes.edu.co/~p.cubideskovacsics/) and [Alexander Berenstein](https://matematicas.uniandes.edu.co/es/profesores/alexander-jonathan-berenstein-opscholtens).
+I currently work under the supervision of Professors [Sylvy Anscombe](https://www.sylvyanscombe.com/me.html), [Pablo Cubides](https://math.uniandes.edu.co/~p.cubideskovacsics/) and [Alexander Berenstein](https://pentagono.uniandes.edu.co/~aberenst/english.html).
 
 Contact me at s.faciolince@uniandes.edu.co
