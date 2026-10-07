@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p> Universidad de los Andes </p>
     
-    <p> Bogotá, Colombia 12345</p>
+    <p> Bogotá, Colombia </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
